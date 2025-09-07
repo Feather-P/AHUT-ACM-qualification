@@ -5,6 +5,7 @@ Cargo.lock
 
 # IDE和编辑器
 .vscode/
+.VSCodeCounter/
 .idea/
 *.swp
 *.swo

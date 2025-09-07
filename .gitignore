@@ -1,0 +1,63 @@
+# Rust
+# 依赖目录
+/target
+Cargo.lock
+
+# IDE和编辑器
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# C++
+# 编译产物
+*.o
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+*.out
+*.app
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.cmake
+!CMakeLists.txt
+
+# 构建目录
+build/
+dist/
+Release/
+Debug/
+target/
+
+# IDE和构建系统
+.vs/
+*.sdf
+*.opensdf
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+*.user
+*.opendb
+
+# 测试覆盖率
+*.gcda
+*.gcno
+*.gcov
+
+# 其他
+*.log
+*.tmp
+*~
+
